@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A responsive Weather Intelligence web app providing real-time forecasts, 7-day outlooks, and intelligent planning recommendations using Open-Meteo.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
